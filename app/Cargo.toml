@@ -1,0 +1,13 @@
+[package]
+name = "app"
+version = "0.1.0"
+authors = ["sorenhoyer <soren@codeish.com>"]
+
+[dependencies]
+app_registry = { path = "../app_registry" }
+app_trait = { path = "../app_trait" }
+iron = { version = "*", default-features = false }
+mount = { version = "*", default-features = false }
+router = { version = "*", default-features = false }
+handlebars-iron = { version = "*", features = ["serde_type"] }
+serde_json = "*"

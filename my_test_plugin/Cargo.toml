@@ -1,0 +1,12 @@
+[package]
+name = "my_test_plugin"
+version = "0.1.0"
+authors = ["sorenhoyer <soren@codeish.com>"]
+
+[dependencies]
+app_registry = { "path" = "../app_registry" }
+app_trait = { "path" = "../app_trait" }
+iron = { version = "*", default-features = false }
+staticfile = { version = "*", default-features = false }
+mount = { version = "*", default-features = false }
+router = { version = "*", default-features = false }

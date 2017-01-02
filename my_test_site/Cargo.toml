@@ -1,0 +1,8 @@
+[package]
+name = "my_test_site"
+version = "0.1.0"
+authors = ["sorenhoyer <soren@codeish.com>"]
+
+[dependencies]
+app = { "path" = "../app" }
+my_test_plugin = { "path" = "../my_test_plugin" }

@@ -1,0 +1,9 @@
+[package]
+name = "app_trait"
+version = "0.1.0"
+authors = ["sorenhoyer <soren@codeish.com>"]
+
+[dependencies]
+mount = { version = "*", default-features = false }
+router = { version = "*", default-features = false }
+iron = { version = "*", default-features = false }
