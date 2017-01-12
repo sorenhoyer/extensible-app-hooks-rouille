@@ -12,7 +12,8 @@ pub trait Plugin {
 
 pub trait Hook {
     #[allow(unused_variables)]
-    fn action_mount_static_file_path(&self, mount: &mut Mount) {}
+    //fn action_mount_static_file_path(&self, mount: &mut Mount) {}
+    fn action_add_route(&self) {}
     #[allow(unused_variables)]
     fn filter_the_content(&self, content: String) -> String { "".to_string() }
     fn priority(&self) -> i32;

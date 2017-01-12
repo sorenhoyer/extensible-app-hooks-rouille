@@ -1,0 +1,436 @@
+cargo:dec_include=C:\Users\Søren\.cargo\registry\src\github.com-1ecc6299db9ec823\brotli-sys-0.2.0\brotli/dec
+cargo:enc_include=C:\Users\Søren\.cargo\registry\src\github.com-1ecc6299db9ec823\brotli-sys-0.2.0\brotli/enc
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/common\\dictionary.o" "-c" "brotli/common/dictionary.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/dec\\bit_reader.o" "-c" "brotli/dec/bit_reader.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/dec\\decode.o" "-c" "brotli/dec/decode.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/dec\\huffman.o" "-c" "brotli/dec/huffman.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/dec\\state.o" "-c" "brotli/dec/state.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\backward_references.o" "-c" "brotli/enc/backward_references.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\bit_cost.o" "-c" "brotli/enc/bit_cost.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\block_splitter.o" "-c" "brotli/enc/block_splitter.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\brotli_bit_stream.o" "-c" "brotli/enc/brotli_bit_stream.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\cluster.o" "-c" "brotli/enc/cluster.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\compress_fragment.o" "-c" "brotli/enc/compress_fragment.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\compress_fragment_two_pass.o" "-c" "brotli/enc/compress_fragment_two_pass.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\encode.o" "-c" "brotli/enc/encode.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\entropy_encode.o" "-c" "brotli/enc/entropy_encode.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\histogram.o" "-c" "brotli/enc/histogram.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\literal_cost.o" "-c" "brotli/enc/literal_cost.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\memory.o" "-c" "brotli/enc/memory.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\metablock.o" "-c" "brotli/enc/metablock.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\static_dict.o" "-c" "brotli/enc/static_dict.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\utf8_util.o" "-c" "brotli/enc/utf8_util.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+AR_x86_64-pc-windows-gnu = None
+AR_x86_64_pc_windows_gnu = None
+HOST_AR = None
+AR = None
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+running: "ar" "crs" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\libbrotli.a" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/common\\dictionary.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/dec\\bit_reader.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/dec\\decode.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/dec\\huffman.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/dec\\state.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\backward_references.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\bit_cost.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\block_splitter.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\brotli_bit_stream.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\cluster.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\compress_fragment.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\compress_fragment_two_pass.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\encode.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\entropy_encode.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\histogram.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\literal_cost.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\memory.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\metablock.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\static_dict.o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\brotli-sys-cdf5fbce0d549173\\out\\brotli/enc\\utf8_util.o"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+cargo:rustc-link-lib=static=brotli
+cargo:rustc-link-search=native=C:\rust code\collexy project\extensible-app-hooks-rouille\app_model\target\debug\build\brotli-sys-cdf5fbce0d549173\out

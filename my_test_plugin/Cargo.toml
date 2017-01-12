@@ -6,7 +6,7 @@ authors = ["sorenhoyer <soren@codeish.com>"]
 [dependencies]
 app_registry = { "path" = "../app_registry" }
 app_trait = { "path" = "../app_trait" }
-iron = { version = "*", default-features = false }
-staticfile = { version = "*", default-features = false }
-mount = { version = "*", default-features = false }
-router = { version = "*", default-features = false }
+app_model = { "path" = "../app_model" }
+rouille = "*"
+filetime = "0.1.10"
+time = "0.1.31"

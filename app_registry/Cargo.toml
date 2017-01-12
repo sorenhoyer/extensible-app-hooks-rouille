@@ -5,5 +5,5 @@ authors = ["sorenhoyer <soren@codeish.com>"]
 
 [dependencies]
 lazy_static = "0.1.15"
-mount = { version = "*", default-features = false }
 app_trait = { "path" = "../app_trait" }
+app_model = { "path" = "../app_model" }

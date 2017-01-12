@@ -1,0 +1,36 @@
+TARGET = Some("x86_64-pc-windows-gnu")
+OPT_LEVEL = Some("0")
+PROFILE = Some("debug")
+TARGET = Some("x86_64-pc-windows-gnu")
+debug=true opt-level=0
+HOST = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CC_x86_64-pc-windows-gnu = None
+CC_x86_64_pc_windows_gnu = None
+HOST_CC = None
+CC = None
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+CFLAGS_x86_64-pc-windows-gnu = None
+CFLAGS_x86_64_pc_windows_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+running: "gcc.exe" "-O0" "-ffunction-sections" "-fdata-sections" "-g" "-m64" "-o" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\miniz-sys-6f122c4c4b71383a\\out\\miniz.o" "-c" "miniz.c"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+HOST = Some("x86_64-pc-windows-gnu")
+AR_x86_64-pc-windows-gnu = None
+AR_x86_64_pc_windows_gnu = None
+HOST_AR = None
+AR = None
+TARGET = Some("x86_64-pc-windows-gnu")
+TARGET = Some("x86_64-pc-windows-gnu")
+running: "ar" "crs" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\miniz-sys-6f122c4c4b71383a\\out\\libminiz.a" "C:\\rust code\\collexy project\\extensible-app-hooks-rouille\\app_model\\target\\debug\\build\\miniz-sys-6f122c4c4b71383a\\out\\miniz.o"
+ExitStatus(ExitStatus(0))
+TARGET = Some("x86_64-pc-windows-gnu")
+cargo:rustc-link-lib=static=miniz
+cargo:rustc-link-search=native=C:\rust code\collexy project\extensible-app-hooks-rouille\app_model\target\debug\build\miniz-sys-6f122c4c4b71383a\out
+cargo:root=C:\rust code\collexy project\extensible-app-hooks-rouille\app_model\target\debug\build\miniz-sys-6f122c4c4b71383a\out
